@@ -9,7 +9,8 @@ A Quantitative Finance approach to modeling, forecasting, and applying time-vary
 * **Avirup Das** (B2430041)
 * **Shubradip Bhattacharyya** (B2430062)
 * **Date:** November 2025
-* **Institution:** Ramakrishna Mission
+* **Institution:** RAMAKRISHNA MISSION VIVEKANANDA EDUCATIONAL AND RESEARCH INSTITUTE BELUR MATH and INDIAN STATISTICAL INSTITUTE
+* **Supervisor:** Gopal Krishna Basak
 
 ---
 
